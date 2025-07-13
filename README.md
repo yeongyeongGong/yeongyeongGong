@@ -2,11 +2,6 @@
 
 # 👩🏻‍💻 Yeonkyung's Portfolio
 
-안녕하세요! 사용자 경험을 고려한 웹 개발과 데이터를 다루는 데 관심이 많은 개발자 연경입니다.  
-비전공자로서의 시선으로 사용자의 관점에서 생각하며, SSAFY를 통해 실무형 개발 경험을 쌓고 있습니다.
-
----
-
 ## 🔧 Tech Stack
 
 - **Back-end**: Java, Spring Boot, Python, Django, MyBatis, Oracle, PL/SQL  
