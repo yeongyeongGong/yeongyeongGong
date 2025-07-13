@@ -7,7 +7,7 @@
 - **Back-end**: Java, Spring Boot, Python, Django, MyBatis, Oracle, PL/SQL  
 - **Front-end**: HTML/CSS, JavaScript, Vue.js, React  
 - **Database**: Oracle, SQLite  
-- **Tools**: Git, GitHub, VS Code, IntelliJ, Postman, Docker (기초), Jenkins (기초)
+- **Tools**: Git, GitHub, VS Code, IntelliJ, Docker (기초), Jenkins (기초)
 
 ---
 
